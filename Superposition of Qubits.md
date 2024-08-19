@@ -8,7 +8,7 @@ Thus,
 - P(1) with a probability of $|\beta|^2$\
 
 Bulb will be in On State or Off State
-![Bulb_Superposition.jpeg](Bulb_Superposition.jpeg.md)
+![Bulb_Superposition.jpeg](res/Bulb_Superposition.jpeg.md)
 
 Just before the bulb is on, Bulb can be in On state and Off state at the same time
 
