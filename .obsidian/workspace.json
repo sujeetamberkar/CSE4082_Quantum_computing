@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4547c959baa4d821",
+        "id": "05699525149a6f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2af3d1c3b0cd9f",
+            "id": "06497438fcff3788",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to QC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to QC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to QC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduction to QC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb2af3d1c3b0cd9f",
+  "active": "06497438fcff3788",
   "lastOpenFiles": [
+    "Introduction to QC.md",
     "res/Bulb_Superposition.jpeg",
     "res/Bloch Sphere.png",
     "res",
@@ -155,7 +148,6 @@
     "suj.py",
     "Introduction to Quantum Computing.md",
     "Basics of Complex Number.md",
-    "Introduction to QC.md",
     "Qubit to Vector form.md"
   ]
 }
