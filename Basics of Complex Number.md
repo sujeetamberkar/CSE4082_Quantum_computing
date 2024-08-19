@@ -7,7 +7,7 @@
 
 $$ Z = a + bi $$
 $$ |Z| = \sqrt{a^2 + b^2} $$
-![[Length Of A COmplex Number.png]]
+![Length Of A COmplex Number.png](Length%20Of%20A%20COmplex%20Number.png.md)
 
 $$
 |Z|^2 = Z \cdot \bar{Z}

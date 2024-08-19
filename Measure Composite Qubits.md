@@ -63,4 +63,4 @@ P($2^{nd}$ Qubit =1 ) =  $\frac{|\alpha_1\beta_2|^2}{(\alpha_1\alpha_2)^2 +(\alp
 
 After 2nd measurement the qubit will collapse into  |00> or |01>
 
-# [[Measure Composite Qubits Numericals]]
+# [Measure Composite Qubits Numericals](Measure%20Composite%20Qubits%20Numericals.md)

@@ -1,4 +1,4 @@
-![[Bloch Sphere.png]]
+![Bloch Sphere.png](Bloch%20Sphere.png.md)
 $\alpha = \cos{\theta/2}$
 $\beta = e^{i\theta}\sin{\theta/2}$
 There is a one-to-one co-respondence between the qubit state and the point on the sphere 

@@ -1,5 +1,5 @@
 # [Definition of Qubit ](Bra and Ket)
-## [[Bra and Ket#Qubit]]
+## [Bra and Ket#Qubit](Bra%20and%20Ket#Qubit.md)
 ## Transformation of Qubit
 - How qubits Transform (Evolve)
 - How Qubits transform using Quantum Gates
